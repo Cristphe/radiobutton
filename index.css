@@ -1,0 +1,21 @@
+.Container{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    font-size: 25px;
+
+}
+
+.Container p {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+}
+
+input[type="radio"]{
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
